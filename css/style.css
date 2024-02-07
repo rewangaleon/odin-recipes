@@ -1,0 +1,37 @@
+body{
+    background-color:#eee ;
+    font-family: 'Contrail One', sans-serif;
+    /* font-family: 'Russo One', sans-serif; */
+}
+
+h1,
+h2,
+h3{
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 900;
+}
+
+.card {
+    margin: 0 auto;
+    width: 70%;
+    background: #fff;
+    padding: 8px;
+}
+
+.title{
+    text-align: center;
+}
+
+img.img-display{
+    display: block;
+    margin: auto;
+}
+
+li{
+    margin-bottom: 7.5px;
+}
+
+
+/* *{
+    border: 1px solid black;
+} */
